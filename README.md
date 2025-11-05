@@ -1,6 +1,7 @@
 # 📝 Text Summarization App
 
 A simple web app for summarizing text using different algorithms: LSA, Luhn, LexRank, and TextRank. Built with **Python**, **Streamlit**, and **Sumy**.
+
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Libraries](https://img.shields.io/badge/Libraries-Streamlit%20%7C%20Sumy%20%7C%20NLTK-lightgrey)](https://streamlit.io/)
 [![Summarizers](https://img.shields.io/badge/Summarizers-LSA%20%7C%20Luhn%20%7C%20LexRank%20%7C%20TextRank-yellow)]()
